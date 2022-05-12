@@ -233,6 +233,7 @@ sudo pip3 install blinker
 sudo pip3 install Flask-Dance
 sudo pip3 install python-dotenv
 sudo pip3 install SQLAlchemy-Utils
+sudo pip3 install --upgrade opencv-python
 echo 'Update installation on the google auth'
 sudo pip3 install --upgrade google-api-python-client
 sudo pip3 install --upgrade google-auth google-auth-oauthlib google-auth-httplib2
