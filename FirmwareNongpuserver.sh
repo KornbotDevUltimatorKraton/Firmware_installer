@@ -147,7 +147,7 @@ sudo snap install heroku --classic
 sudo pip3 install openpyxl 
 sudo pip3 install pyzbar  
 sudo pip3 install qrcode 
-
+sudo pip3 install printrun
 #install the library for the 
 sudo apt-get install libportaudio2 -y 
 sudo apt-get install flac -y 
